@@ -1,0 +1,48 @@
+{
+  "name": "fikzax",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.8.0",
+    "@material-ui/icons": "^4.2.1",
+    "firebase": "^7.7.0",
+    "i18next": "^19.0.3",
+    "i18next-browser-languagedetector": "^4.0.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "material-ui-cookie-consent": "^0.1.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-google-recaptcha": "^2.0.1",
+    "react-i18next": "^11.3.1",
+    "react-medium-image-zoom": "^4.0.2",
+    "react-player": "^1.15.2",
+    "react-responsive-carousel": "^3.1.51",
+    "react-responsive-embed": "^2.1.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "react-slick": "^0.25.2",
+    "typeface-roboto": "0.0.75"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
